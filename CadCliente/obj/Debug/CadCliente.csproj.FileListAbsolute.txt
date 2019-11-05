@@ -1,0 +1,10 @@
+D:\MexeNao\trabalho\CadCliente\CadCliente\bin\Debug\CadCliente.exe.config
+D:\MexeNao\trabalho\CadCliente\CadCliente\bin\Debug\CadCliente.exe
+D:\MexeNao\trabalho\CadCliente\CadCliente\bin\Debug\CadCliente.pdb
+D:\MexeNao\trabalho\CadCliente\CadCliente\obj\Debug\CadCliente.exe
+D:\MexeNao\trabalho\CadCliente\CadCliente\obj\Debug\CadCliente.pdb
+D:\MexeNao\trabalho\CadCliente\CadCliente\bin\Debug\EntityFramework.dll
+D:\MexeNao\trabalho\CadCliente\CadCliente\bin\Debug\EntityFramework.xml
+D:\MexeNao\trabalho\CadCliente\CadCliente\obj\Debug\CadCliente.csprojAssemblyReference.cache
+D:\MexeNao\trabalho\CadCliente\CadCliente\obj\Debug\CadCliente.csproj.CoreCompileInputs.cache
+D:\MexeNao\trabalho\CadCliente\CadCliente\obj\Debug\CadCliente.csproj.CopyComplete
